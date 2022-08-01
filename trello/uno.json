@@ -1,0 +1,31 @@
+{
+    
+    "tareas":[{
+
+     "id": 1,
+     "nombre": "Tarea numero 1",
+     "descripcion":"tarea con boostrap 4",
+      "inicio": "1658374042",
+      "fin": "1658772900"
+    },
+
+      {
+
+      "id": 2,
+      "nombre": "Tarea numero 2",
+      "descripcion":"tarea con boostrap 4",
+       "inicio": "1658374042",
+       "fin": "1658772900"
+    },
+
+       {
+       "id": 3,
+       "nombre": "Tarea numero 3",
+       "descripcion":"tarea con boostrap 4",
+        "inicio": "1658374042",
+        "fin": "1658772900"
+    }
+]
+}
+
+
